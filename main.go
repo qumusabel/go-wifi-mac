@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"qumusabel/tools/wifi_mac/client"
+    "github.com/qumusabel/go-wifi-mac/client"
 )
 
 func usage() {
